@@ -1,0 +1,554 @@
+
+.Main_theme {
+    width: 960px;
+    height: 85px;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+.Main_theme_logo {
+    width: 165px;
+    height: 85px;
+    float:left;
+}
+
+.Main_text {
+    width: 520px;
+    height: 85px;
+    float:left;
+}
+
+
+.text_logo {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.Main_nomber {
+    width: 215px;
+    height: 85;
+    float:left;
+}
+
+.nomber {
+    font-size: 1.5em;
+}
+
+.nomber_sig {
+    text-decoration: underline;
+    margin-top: 5px;
+    color:#E93F25;
+}
+
+.Big_text {
+    padding-top: 140px;
+    margin: 0 auto ;
+    height: 35px;
+    width: 960px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.Small_text {
+    margin: 10px auto 0;
+    height: 20px;
+    width: 960px;
+    text-align: center;
+    color: #E93F25;
+    font-size: 1.3em;
+}
+
+.lamp {
+    margin: 0 auto;
+    width: 960px;
+    height: 320px;
+}
+
+.lamp_img {
+    float: left;
+    height: 400px;
+
+}
+
+.lamp_icon {
+    float: left;
+    width: 40px;
+    height: 480px;    
+}
+
+.lamp_offer {
+    float: left;
+    width: 320px;
+    height: 480px;
+}
+
+.lamp_offer_text {
+    padding-top: 300px;
+}
+
+.lamp_offer_click_text {
+    color:#E93F25;
+    margin: 15px 0 0 50px;
+    border: 5px solid #E93F25;
+    width: 150px;
+    padding: 4px;
+    font-size: 0.8em;
+    text-align: center;
+    
+    
+}
+
+.ip {
+    width: 100%;
+    height: 250px;
+    background-color: #E3E3E3;
+}
+
+.ip_content {
+    height:250px;
+    width: 960px;
+    margin: 0 auto;  
+}
+
+.ip_content_text1 {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 2.5em;
+    
+}
+
+.ip_contemt_text2 {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    
+}
+
+.new_tech {
+    margin: 0 auto;
+    width: 960px;
+    height: 700px;
+    
+}
+
+.new_tech_text {
+    padding-top: 165px;
+    text-align: center;
+    width: 860px;
+    height: 100px;
+    margin: 0 auto;
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+.new_tech_content {
+    width: 960px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.new_tech_content_block {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.new_tech_content_block img{
+    padding-top: 20px;
+    padding-left: 105px;
+    margin: 0 auto;
+    width: 90px;  
+}
+
+.new_tech_content_block p{
+    text-align: center;
+    font-size: 1.5em;
+    
+}
+
+.new_tech_content_block h1{
+    text-align: center;
+    padding-top: 45px;
+    font-size: 1.4em;
+    padding-bottom: 10px;
+}
+.new_tech_content_block h2{
+    padding-left: 14px;
+}
+
+.new_tech_content_block li{
+    margin-left: 50px;
+    font-size: 1em;
+    width: 290px;
+    list-style-type: disc;
+    color: red;
+}
+   
+.new_tech_content_block span {
+color: black;
+}
+    
+
+
+.middle_icon {
+    margin: 0 auto;
+    width: 750px;
+    height: 430px;  
+    
+}
+
+.middle_icon_block {
+    float: left;
+    width: 210px;
+    margin-right: 60px; 
+    height: 180px;
+    padding-left:70px; 
+}
+
+
+.middle_icon_block img {
+    padding-top: 30px;
+    height: 100px;
+    padding-left: 50px;
+}
+
+.middle_icon_block p{ ;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.ind_schem {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image:url(../img/ind_schem/fon_2.jpg);
+    width: 100%;
+    height: 655px;
+    
+}
+
+.ind_schem_text1 {
+    padding-top: 55px;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.ind_schem_text2 {
+    padding-top: 45px;
+    text-align: center;
+    font-size: 2.5em;
+    
+}
+
+.ind_schem_allblock {
+    margin: 0 auto;
+    width: 958px;
+    height: 230px;
+}
+
+.ind_schem_block {
+    margin-right: 50px; 
+    float: left;
+    width: 276px;
+    border: 5px solid #E93F25;
+    height: 220px;
+    background-color: #D8D8D8;
+}
+.ind_schem_block p{
+    float: left;
+    padding-top: 50px;
+    font-size: 1.3em;
+}
+
+.ind_schem_text_allblock {
+    margin: 0 auto;
+    width: 958px;
+    height: 80px;
+}
+
+.ind_schem_text_block {
+    padding-top: 50px;
+    margin-right: 50px; 
+    float: left;
+    width: 286px;
+    height: 20px;
+    
+}
+
+.ind_schem_text_block p{
+    font-weight: bold;
+}
+
+.ind_schem_text_block p{
+    text-align: center;
+    font-size: 1.25em;
+}
+.ind_schem_block_img {
+    float: left;
+    width: 40px;
+    height: 220px; 
+}
+.ind_schem_block_img img{
+    padding: 55px 0 0 10px;
+}
+
+.ind_schem_bottontext {
+    padding-top: 5px;
+    text-align: center;
+    color: #E93F25;
+    font-size: 1.6em;
+}
+
+.continet_conect {
+    margin: 0 auto;
+    width: 960px;
+    height: 400px;
+    padding: 1px;
+}
+.continet_conect p{
+    padding-top: 55px;
+    text-align: center;
+    font-size: 3em;
+}
+
+.form_quations {
+    margin-top: 50px;
+    width: 100%;
+    height: 510px;
+
+}
+
+.form_quations_block {
+    margin: 35px 25px 0 25px;
+    width: 900px;
+    height: 425px;
+    border: 5px solid #E93F25;
+    background-color: white;
+    background-image: url(../img/fon_kostil/fon_gray.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    box-shadow: 0 0 60px black;
+}
+
+.form_quations_ram { 
+    padding-top: 1px;
+    margin: 0 auto;
+    width: 960px;
+    height: 510px;
+}
+
+.rezult {
+    margin: 0 auto;
+    width: 960px;
+    height: 610px;
+}
+
+.rezult_main_text {
+    padding-top: 150px;
+    text-align: center;
+    font-size: 3em;
+}
+
+.rezult_allblock {
+    padding-top:50px;
+    float: left;
+    width: 620px;
+    height: 360px;
+}
+
+.rezult_blocl {
+    float: left;
+    width: 180px;
+    height: 180px; 
+}
+
+.rezult_blocl h1{
+    padding-top: 30px;
+    color: #E93F25;
+    text-align: center;
+    font-size: 3em;
+}
+
+.rezult_blocl h2{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 1.5em;
+    
+}
+
+.rezult_img {
+    padding-top: 30px;
+    float: left;
+    width: 340px;
+    height: 360px;
+}
+
+.rezult_botton {
+    margin: 0 auto;
+    width: 960px;
+    height: 150px;
+}
+
+.consultation_form {
+    width: 100%;
+    height: 370px;
+    background-color:#E3E3E3; 
+}
+
+.consultation_big_txt {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 2em; 
+}
+
+.consultation_small_txt {
+    padding-top: 20px;
+    text-align: center;
+    color: #E93F25;
+    font-size: 1.3em;
+    
+}
+
+.consultation_block {
+    margin: 0 auto;
+    width: 960px;
+    height: 267px;
+    padding-top: 1px;
+}
+
+.consultation_block_form {
+    background-color: #707070;
+    margin: 49px 15px 0 15px;
+    width: 920px;
+    height: 120px;
+    border: 5px solid #E93F25;
+    }
+
+.botton {
+    width: 100%;
+    height: 190px;
+    background-color: black;
+    
+}
+
+.botton_block {
+    margin: 0 auto;
+    width: 960px;
+    height: 160px;
+    padding-top: 30px;
+}
+
+.botton_block_logo {        
+    width: 165px;
+    height: 85px;
+    float: left;
+}
+
+.botton_text {
+    width: 520px;
+    height: 85px;
+    float:left;
+}
+
+.botton_text_logo {
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+
+.botton_nomber {
+    width: 215px;
+    height: 85;
+    float:left;
+    color: white;
+}
+
+.botton_nomber1 {
+    font-size: 1.5em;
+}
+
+.botton_nomber_sig {
+    text-decoration: underline;
+    margin-top: 5px;
+    color:#E93F25;
+}
+
+.copyright {  
+    color: white;
+    float:left;
+}
+
+.form_quations_block h1 {
+    width: 900px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+.form_quations_block h2 {
+    width: 900px;
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.form_quations_block p {
+    font-size: 0.8em;
+    text-align: center;
+    width: 900px;
+    margin-top: 5px;
+}
+.rezult_botton_img {
+    width: 250px;
+}
+
+.fixed_main {
+    width: 100%;
+    height: 105px;
+    background-color: white;
+    position: fixed;
+    z-index: 9999;
+}
+
+.ind_schem_bottom {
+    margin: 0 auto;
+    width: 960px;
+    height: 200px;
+}
+.ind_schem_bottom img{
+    padding: 40px 25px 0 0;
+    float: left;
+    height: 90px;
+}
+
+
+.ind_schem_arrow {
+    margin: 0 auto;
+    width: 958px;
+    height: 61px;
+}
+.ind_schem_arrow img{
+    float: left;
+    height: 45px;
+    padding: 5px 120px 0 120px;
+}
+
+
+
+
+.bonus {
+    margin: 0 auto;
+    width: 960px;
+    height: 120px;
+}
+
+.kostil {
+    background-color: red;
+    float: left;
+    width: 5px;
+    height: 30px;
+    margin-right: 10px;
+}

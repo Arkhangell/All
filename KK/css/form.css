@@ -1,0 +1,110 @@
+/* Стили формы */
+#application {
+    width: 920px;
+    margin: 0 auto;
+}
+
+/*Стили полей для ввода*/
+#applicationName, #applicationEmail, #applicationTelephone, #applicationCompany {
+    float: left;
+    margin: 40px 0 0 20px;
+    width: 195px;
+    height: 30px;
+    border: 5px solid #E93F25;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+/*Стили для кнопки*/
+.applicationButton {
+    float: left;
+    background: #E93F25;
+    border: none;
+    width: 205px;
+    height: 40px;
+    margin: 40px 0 0 20px;
+    color: #fff;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-family: 'PT Sans', sans-serif;
+    cursor: pointer;
+}
+
+.applicationButton:hover {
+        background: #a52d1a;
+        transition: .4s;
+    } 
+
+#application1 {
+    margin: 0 auto;
+    width: 900px;
+    height: 290px;
+}
+#applicationName1, #applicationEmail1, #applicationTelephone1, #applicationCompany1, #applicationExport_name, #applicationTraffic_volume, #applicationAts     {
+    float: left;
+    margin: 30px 0 0 35px;
+    width: 242px;
+    height: 30px;
+    border: 5px solid #E93F25;
+    text-align: center;
+    font-size: 0.75em;
+}
+
+
+
+.tPlan {
+    float: left;
+    margin:30px 0 0 35px;
+    width: 250px;
+    height: 40px;
+    border: 5px solid #E93F25;
+    text-align: center;
+    font-size: 0.75em;
+}
+
+:focus::-webkit-input-placeholder {color: transparent}
+:focus::-moz-placeholder          {color: transparent}
+:focus:-moz-placeholder           {color: transparent}
+:focus:-ms-input-placeholder      {color: transparent}
+
+.applicationButton1 {
+    float: left;
+    background: #E93F25;
+    width: 290px;
+    border: none;
+    height: 45px;
+    margin: 20px 301px 0;
+    color: #fff;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-family: 'PT Sans', sans-serif;
+    cursor: pointer;
+}
+
+.applicationButton1:hover {
+        background: #a52d1a;
+        transition: .4s;
+    }
+
+
+.bonus_block {
+    float: left;
+    width: 355px;
+    height: 120px;
+    padding-left: 125px;
+
+}
+.bonus_block span{
+    color: black;
+}
+.bonus_block li{
+    list-style-type:disc;
+    color: red;
+    margin-left: 16px;
+}
+.bonus_block h1{
+    font-size: 2em;
+    margin-bottom: 10px;
+    padding-left: 10px;
+
+}
